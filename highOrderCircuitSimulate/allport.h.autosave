@@ -1,0 +1,11 @@
+#ifndef ALLPORT_H
+#define ALLPORT_H//确保头文件只包含一次,避免重复包含
+
+
+class AllPort
+{
+public:
+    AllPort();
+};
+
+#endif // ALLPORT_H   头文件结束时的预处理器命令
